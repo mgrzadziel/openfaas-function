@@ -5,4 +5,4 @@ functions:
   hello-csharp:
     lang: csharp
     handler:  # empty if stack.yml in the same localization
-    image: faas-hello-csharp
+    image: faas-currentDatetime-csharp

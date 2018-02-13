@@ -51,3 +51,10 @@ functions/csharp/HelloWorldFunc/obj/Debug/netcoreapp2.0/HelloWorldFunc.csprojRes
 functions/csharp/HelloWorldFunc/obj/Debug/netcoreapp2.0/HelloWorldFunc.csproj.FileListAbsolute.txt
 functions/csharp/HelloWorldFunc/bin/Debug/netcoreapp2.0/HelloWorldFunc.dll
 functions/csharp/HelloWorldFunc/bin/Debug/netcoreapp2.0/HelloWorldFunc.deps.json
+functions/csharp/CurrentDatetimeFunc/obj/Debug/netcoreapp2.0/CurrentDatetimeFunc.csproj.CoreCompileInputs.cache
+functions/csharp/CurrentDatetimeFunc/obj/Debug/netcoreapp2.0/CurrentDatetimeFunc.AssemblyInfoInputs.cache
+functions/csharp/CurrentDatetimeFunc/obj/CurrentDatetimeFunc.csproj.nuget.g.targets
+functions/csharp/CurrentDatetimeFunc/obj/CurrentDatetimeFunc.csproj.nuget.cache
+functions/csharp/CurrentDatetimeFunc/obj/CurrentDatetimeFunc.csproj.nuget.g.props
+functions/csharp/CurrentDatetimeFunc/obj/project.assets.json
+functions/csharp/CurrentDatetimeFunc/obj/Debug/netcoreapp2.0/CurrentDatetimeFunc.AssemblyInfo.cs

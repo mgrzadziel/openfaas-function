@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldFunc", "HelloWorldFunc\HelloWorldFunc.csproj", "{F7307E03-AE80-480F-B9E4-D33FF8051202}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldFunc", "HelloWorldFunc\HelloWorldFunc.csproj", "{F7307E03-AE80-480F-B9E4-D33FF8051202}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{095A7E9A-C08E-414A-9125-FC3E238178E1}"
+	ProjectSection(SolutionItems) = preProject
+		redme.txt = redme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrentDatetimeFunc", "CurrentDatetimeFunc\CurrentDatetimeFunc.csproj", "{E30913C2-E188-4C36-9BE6-6BFF79FBBDA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{F7307E03-AE80-480F-B9E4-D33FF8051202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7307E03-AE80-480F-B9E4-D33FF8051202}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7307E03-AE80-480F-B9E4-D33FF8051202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30913C2-E188-4C36-9BE6-6BFF79FBBDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30913C2-E188-4C36-9BE6-6BFF79FBBDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30913C2-E188-4C36-9BE6-6BFF79FBBDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30913C2-E188-4C36-9BE6-6BFF79FBBDA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

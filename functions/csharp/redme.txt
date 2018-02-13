@@ -1,0 +1,6 @@
+build:
+faas-cli -action build -f stack.yml
+
+deploy: 
+faas-cli deploy -f stack.yml --gateway http://127.0.0.1:8080
+
