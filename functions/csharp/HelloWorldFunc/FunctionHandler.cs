@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Text;
 
-namespace Function
+namespace HelloWorldFunc
 {
     public class FunctionHandler
     {
