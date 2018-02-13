@@ -2,7 +2,7 @@
   name: faas
   gateway: http://localhost:8080
 functions:
-  hello-csharp:
+  current--datetime-csharp:
     lang: csharp
     handler:  # empty if stack.yml in the same localization
     image: faas-current-datetime-csharp
